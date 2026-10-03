@@ -1,0 +1,17 @@
+# Dataset and generated files
+*.gz
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.npy
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
